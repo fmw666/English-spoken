@@ -12,7 +12,7 @@
 </thead>
 <tbody>
 <tr>
-<th colspan="5" align="center"><strong>元音</strong></th>
+<th colspan="5" align="center" style="backgroud-color: rgb(95, 150, 180)"><strong>元音</strong></th>
 </tr>
 <tr>
 <td align="center">[i]</td>
@@ -70,7 +70,7 @@
 <td align="center">label, paddle, toggle</td>
 </tr>
 <tr>
-<th colspan="5" align="center"><strong>辅音</strong></th>
+<th colspan="5" align="center" style="backgroud-color: rgb(95, 150, 180)"><strong>辅音</strong></th>
 </tr>
 <tr>
 <td align="center">[p]</td>
