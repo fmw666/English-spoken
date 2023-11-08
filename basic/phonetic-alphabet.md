@@ -1,5 +1,7 @@
 # 音标
 
+> 参考自牛津字典标准：<https://dictionary.cambridge.org/help/phonetics.html>
+
 <table>
 <thead>
 <tr>
@@ -12,7 +14,7 @@
 </thead>
 <tbody>
 <tr>
-<th colspan="5" align="center" style="backgroud-color: rgb(95, 150, 180)"><strong>元音</strong></th>
+<th colspan="5" align="center" style="background-color: rgb(152 165 172)"><strong>元音</strong></th>
 </tr>
 <tr>
 <td align="center">[i]</td>
@@ -70,7 +72,7 @@
 <td align="center">label, paddle, toggle</td>
 </tr>
 <tr>
-<th colspan="5" align="center" style="backgroud-color: rgb(95, 150, 180)"><strong>辅音</strong></th>
+<th colspan="5" align="center" style="background-color: rgb(152 165 172)"><strong>辅音</strong></th>
 </tr>
 <tr>
 <td align="center">[p]</td>
