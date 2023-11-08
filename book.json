@@ -14,7 +14,8 @@
 
     "plugins": [
         "theme-comscore",
-        "splitter"
+        "splitter",
+        "en-reader@git+https://github.com/fmw666/gitbook-plugin-en-reader.git"
     ],
 
     "pluginsConfig": {
