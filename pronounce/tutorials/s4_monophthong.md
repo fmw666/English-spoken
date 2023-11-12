@@ -269,3 +269,50 @@
 </table>
 
 <audio controls><source type="audio/mpeg" src="audio/s4_5.m4a"></source>Your browser does not support the audio element.</audio>
+
+## /ʊ/.../uː/
+
+<table>
+    <tr>
+        <th rowspan="2">单词</th>
+        <th colspan="2">发音</th>
+        <th rowspan="2">单词</th>
+        <th colspan="2">发音</th>
+    </tr>
+    <tr>
+        <th>英式</th>
+        <th>美式</th>
+        <th>英式</th>
+        <th>美式</th>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align: center;">/ʊ/</td>
+        <td colspan="3" style="text-align: center;">/uː/</td>
+    </tr>
+    <tr>
+        <td>pull<br>拖，拉</td>
+        <td><span class="plug_sound" wd="pull" accent="0">uk /p<span style="color: red;">ʊ</span>l/</span></td>
+        <td><span class="plug_sound" wd="pull" accent="1">us /p<span style="color: red;">ʊ</span>l/</span></td>
+        <td>pool<br>水塘，水池</td>
+        <td><span class="plug_sound" wd="pool" accent="0">uk /p<span style="color: red;">uː</span>l/</span></td>
+        <td><span class="plug_sound" wd="pool" accent="1">us /p<span style="color: red;">uː</span>l/</span></td>
+    </tr>
+    <tr>
+        <td>full<br>充满的</td>
+        <td><span class="plug_sound" wd="full" accent="0">uk /f<span style="color: red;">ʊ</span>l/</span></td>
+        <td><span class="plug_sound" wd="full" accent="1">us /f<span style="color: red;">ʊ</span>l/</span></td>
+        <td>fool<br>傻瓜，笨蛋</td>
+        <td><span class="plug_sound" wd="fool" accent="0">uk /f<span style="color: red;">uː</span>l/</span></td>
+        <td><span class="plug_sound" wd="fool" accent="1">us /f<span style="color: red;">uː</span>l/</span></td>
+    </tr>
+    <tr>
+        <td>nook<br>角落，隐蔽处</td>
+        <td><span class="plug_sound" wd="nook" accent="0">uk /n<span style="color: red;">ʊ</span>k/</span></td>
+        <td><span class="plug_sound" wd="nook" accent="1">us /n<span style="color: red;">ʊ</span>k/</span></td>
+        <td>nuke<br>核武器</td>
+        <td><span class="plug_sound" wd="nuke" accent="0">uk /nj<span style="color: red;">uː</span>k/</span></td>
+        <td><span class="plug_sound" wd="nuke" accent="1">us /nj<span style="color: red;">uː</span>k/</span></td>
+    </tr>
+</table>
+
+<audio controls><source type="audio/mpeg" src="audio/s4_6.m4a"></source>Your browser does not support the audio element.</audio>
