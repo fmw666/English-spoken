@@ -1,6 +1,6 @@
 # Day 56
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV17x4y1N7Ed&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV17x4y1N7Ed&page=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 > 素材选自电影【变形金刚4：绝迹重生】
 
