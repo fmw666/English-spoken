@@ -13,12 +13,27 @@
     },
 
     "plugins": [
+        "anchor-navigation-ex",
         "theme-comscore",
         "splitter",
-        "en-reader@git+https://github.com/fmw666/gitbook-plugin-en-reader.git"
+        "en-reader@git+https://github.com/fmw666/gitbook-plugin-en-reader.git",
+        "back-to-top-button",
+        "chapter-fold",
+        "expandable-chapters",
+        "page-treeview",
+        "popup",
+        "splitter",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "theme-comscore"
     ],
 
     "pluginsConfig": {
+        "anchor-navigation-ex": {
+            "showLevel": false,
+            "showGoTop": false
+        },
         "theme-default": {
             "showLevel": true
         }

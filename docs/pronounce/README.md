@@ -7,6 +7,7 @@
 | 加粗字体 | 重读 |  |
 | ~    | 同化现象 | taught~you |
 | -    | 连读 | write-a |
+| 删除线 | 省略 | ge~~t~~ married |
 | ↑    | 升调 | shall we↑ |
 
 ## 连读策略

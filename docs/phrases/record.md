@@ -124,3 +124,7 @@ an eye for an eye
 divide and conquer [dɪˈvaɪd ən ˈkɑːŋkər]
 
 adjourned (adj.) 休会的；延期的 [əˈdʒɜːrnd]
+
+working double shifts 工作两班倒
+
+make ends meet 维持生计
