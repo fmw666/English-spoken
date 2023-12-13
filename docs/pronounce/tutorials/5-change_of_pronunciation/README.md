@@ -80,6 +80,8 @@
 | 例句 | 变化前音标 | 变化后音标 |
 | :-- | :-------- | :-------- |
 | an egg 一个鸡蛋 | /æ<span style="color: red">n e</span>ɡ/ | /æ<span style="color: red">nne</span>ɡ/ |
+| on a 在一个 | /ɑː<span style="color: red">n ə</span>/ | /ɑː<span style="color: red">nnə</span>/ |
+| in an 在一个 | /ɪ<span style="color: red">n æ</span>n/ | /ɪ<span style="color: red">nnæ</span>n/ |
 
 ### r + 元音
 

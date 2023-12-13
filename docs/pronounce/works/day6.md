@@ -12,4 +12,4 @@ Yeah, I like chatting with my friends because everyone has their own information
 
 jeə aɪ laɪk ˈtʃætɪŋ wɪð maɪ frendz bɪˈkɔːz ˈevriwʌn hæz ðər oʊn ˌɪnfərˈmeɪʃən ˈnetwɜːrk.
 ˈtʃætɪŋ wɪð ðem miːnz jʊ hæv ðə tʃæns tə ˈækses ðər juˈniːk ˈɪnsaɪt.
-ðə mɔːr ˌɪnfərˈmeɪʃ(ə)n aɪ ˈɡæðər, ðə mɔːr ɪnˈrɪtʃt aɪ ˈɡæðər, ðə mɔːr ɪnˈrɪtʃt maɪ pərˈspektɪv bɪˈkʌmz.
+ðə mɔːr ˌɪnfərˈmeɪʃ(ə)n aɪ ˈɡæðər, ðə mɔːr ɪnˈrɪtʃt maɪ pərˈspektɪv bɪˈkʌmz.
