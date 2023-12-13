@@ -59,6 +59,14 @@
 | interactive 交互的 | /ˌɪ<span style="color: red">ntə</span>rˈæktɪv/ | /ˌɪ<span style="color: red">nə</span>rˈæktɪv/ |
 | an interactive video<br>一个交互视频 | /æn ˌɪ<span style="color: red">ntə</span>rˈæktɪv ˈvɪdioʊ/ | /æn ˌɪ<span style="color: red">nə</span>rˈæktɪv ˈvɪdioʊ/ |
 
+## 句子练习
+
+
+| 例词/例句 | 变化后音标 |
+| :------- | :-------- |
+| get at the heart of what drives us | /ɡedæðə hɑːrdəv wʌ~~d~~ draɪvzʌs/ |
+
+
 ## 短文练习
 
 ![Alt text](image.png)

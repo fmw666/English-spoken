@@ -1,8 +1,0 @@
-.plug_sound {
-  cursor: pointer;
-}
-
-.plug_sound::before {
-  content: "🔊";
-  padding-right: 5px;
-}
