@@ -1,5 +1,8 @@
 # 发音
 
+音标轻音是中文一声
+
+
 ## 符号解析
 
 | 符号 | 说明 | 示例 |
@@ -12,7 +15,8 @@
 | 删除线+小括号 | 不送气 | wha~~t~~(d) about |
 | ↑    | 升调 | shall we↑ |
 | ↓    | 降调 | make it↓ |
-| \|   | 停顿 | remember \| that thing |
+| \|   | 句子停顿 | get at the heart \| of what \| drives us |
+| ^    | 音节停顿 | questioning the worl^d-around~you |
 
 ## 举例
 

@@ -55,3 +55,5 @@
         * [what are your thoughts on](hearing/liaison/what_are_your_thoughts_on.md)
         * [what's there to](hearing/liaison/what's_there_to.md)
         * [you don't know what it's like](hearing/liaison/you_don't_know_what_it's_like.md)
+* [training](training/README.md)
+    * [day1 221109 What is Money?](training/day1_221109_what_is_money.md)
