@@ -57,3 +57,5 @@
         * [you don't know what it's like](hearing/liaison/you_don't_know_what_it's_like.md)
 * [training](training/README.md)
     * [day1 221109 What is Money?](training/day1_221109_what_is_money.md)
+    * [day2 220519 What is Iceberg Thinking?](training/day2_220519_what_is_iceberg_thinking.md)
+    * [day4 230728 What is AI? - AI Basics](training/day4_230728_what_is_AI_AI_Basics.md)
